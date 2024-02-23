@@ -13,3 +13,8 @@
 *When Apply Brake button is clicked
  o If the speed is greater than 0mph, then the speed should be decreased by 10mph
  o If the speed is equal to 0mph, the speed should not be decreased
+
+   Design Files
+ ----------------
+Extra Small (Size < 576px) and Small (Size >= 576px)
+Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)
